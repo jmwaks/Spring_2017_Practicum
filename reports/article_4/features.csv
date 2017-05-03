@@ -1,0 +1,17 @@
+Features, Used
+gender_F, gender_M
+EventsAttended,Hprofileview, 
+Hcoachimport, Hmessage, 
+Hsearchhit,Hcoacheval, 
+Hemailopen, EAthlete newsletter, 
+Eathlete_new,Eathlete_new_info_request, 
+ECCNote, ECCNote_camp,
+Ecoach_list_known_updated, ECoachEmailOpen, 
+ECoachEval,ECoachImport, 
+ECoachSearchHit, ECoachVisit,
+Ecolleges_going_to_the_event, Efailed_subscription,
+Eparent_new, Eparent_welcome, 
+Epost_event_email,Esms_update, 
+CollegeProspects, MessagesReceived,
+MessagesSent, monthly_price, 
+CaptainU_CHURN
